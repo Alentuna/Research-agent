@@ -1,2 +1,1 @@
-# Research-agent
-Research agent
+# ResearchAgent
